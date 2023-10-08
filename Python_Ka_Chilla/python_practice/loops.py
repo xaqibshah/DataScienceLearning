@@ -40,7 +40,10 @@ foods = ['Dahi Bhallay', 'Biryani', 'Daal', 'Samosay', 'Shami', 'Palak Paneer']
 #         continue
 #     print(letters)
 
-for letters in 'python':
-    if letters == 'h':
-        pass
-    print(letters)
+# for letters in 'python':
+#     if letters == 'h':
+#         pass
+#     print(letters)
+
+
+
